@@ -10,9 +10,9 @@
 
 ### javascript
 
-- [Map 响应式勾选示例](https://github.com/mhrealm/juejin-articles/blob/main/javascript/map-usage/MapDemo.vue)
-- [数组勾选对比示例](https://github.com/mhrealm/juejin-articles/blob/main/javascript/map-usage/NormalDemo.vue)
-- [Map 合并订单编辑状态](https://github.com/mhrealm/juejin-articles/blob/main/javascript/map-usage/OrderMerge.vue)
+- [Map 实战：响应式勾选示例](https://github.com/mhrealm/juejin-articles/blob/main/javascript/map-usage/MapDemo.vue)
+- [Map 实战：数组勾选对比示例](https://github.com/mhrealm/juejin-articles/blob/main/javascript/map-usage/NormalDemo.vue)
+- [Map 实战：合并订单编辑状态](https://github.com/mhrealm/juejin-articles/blob/main/javascript/map-usage/OrderMerge.vue)
 
 ### jquery
 
